@@ -1,0 +1,8 @@
+/home/nirvana/MOBJ/tme4-5/build/../install/bin/tme45
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Indentation.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Term.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Net.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Instance.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Point.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Node.h
+/home/nirvana/MOBJ/tme4-5/build/../install/include/Cell.h
