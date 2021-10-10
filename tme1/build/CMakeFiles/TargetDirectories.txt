@@ -1,0 +1,7 @@
+/home/nirvana/MOBJ/build/CMakeFiles/install/strip.dir
+/home/nirvana/MOBJ/build/CMakeFiles/edit_cache.dir
+/home/nirvana/MOBJ/build/CMakeFiles/ctme1.dir
+/home/nirvana/MOBJ/build/CMakeFiles/install.dir
+/home/nirvana/MOBJ/build/CMakeFiles/rebuild_cache.dir
+/home/nirvana/MOBJ/build/CMakeFiles/list_install_components.dir
+/home/nirvana/MOBJ/build/CMakeFiles/install/local.dir
