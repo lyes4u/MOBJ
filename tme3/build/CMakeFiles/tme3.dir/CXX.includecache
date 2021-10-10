@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nirvana/MOBJ/tme3/src/GPL_2_test.h
+iostream
+-
+
+/home/nirvana/MOBJ/tme3/src/Vect.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+list
+-
+map
+-
+GPL_2_test.h
+/home/nirvana/MOBJ/tme3/src/GPL_2_test.h
+
+/home/nirvana/MOBJ/tme3/src/main.cpp
+Vect.h
+/home/nirvana/MOBJ/tme3/src/Vect.h
+GPL_2_test.h
+/home/nirvana/MOBJ/tme3/src/GPL_2_test.h
+timer.h
+/home/nirvana/MOBJ/tme3/src/timer.h
+
+/home/nirvana/MOBJ/tme3/src/timer.h
+ctime
+-
+iostream
+-
+

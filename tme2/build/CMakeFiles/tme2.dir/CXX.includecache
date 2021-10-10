@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nirvana/MOBJ/tme2/src/Box.cpp
+Box.h
+/home/nirvana/MOBJ/tme2/src/Box.h
+
+/home/nirvana/MOBJ/tme2/src/Box.h
+string
+-
+iostream
+-
+
+/home/nirvana/MOBJ/tme2/src/BoxQT.h
+Box.h
+/home/nirvana/MOBJ/tme2/src/Box.h
+
+/home/nirvana/MOBJ/tme2/src/main.cpp
+iostream
+-
+Box.h
+/home/nirvana/MOBJ/tme2/src/Box.h
+BoxQT.h
+/home/nirvana/MOBJ/tme2/src/BoxQT.h
+

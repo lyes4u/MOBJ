@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g  -rdynamic CMakeFiles/tme2.dir/Box.cpp.o CMakeFiles/tme2.dir/main.cpp.o  -o tme2 
